@@ -1,0 +1,33 @@
+body{
+				background-image: url(3.png);
+				background-size: cover;
+				font-family: "Times New Roman", Times, serif;
+				margin: 10px
+
+}
+.style1 {
+				font-size: 24pt;
+				color: #0000FF;
+				text-align: center;
+}
+.style2 {
+				font-size: 16pt;
+				color: #CC0066;
+}
+.style3 {
+				font-size: 14pt;
+				color: #000080;
+				text-align: center;
+
+}
+
+.style4 {
+				text-align: center;
+}
+
+.style5 {
+				font-size: 14pt;
+				color: #000080;
+				text-align: left;
+
+}
